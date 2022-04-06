@@ -1,0 +1,32 @@
+[2022-01-04 23:25:44.432] [exthost] [info] Extension host with pid 99261 started
+[2022-01-04 23:25:44.432] [exthost] [info] Skipping acquiring lock for /home/shashank/.config/Code/User/workspaceStorage/7c856d14e29f83bf97d8046417306fbc.
+[2022-01-04 23:25:44.545] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+[2022-01-04 23:25:44.555] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-01-04 23:25:44.557] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.github
+[2022-01-04 23:25:44.559] [exthost] [info] ExtensionService#_doActivateExtension DivyanshuAgrawal.competitive-programming-helper, startup: true, activationEvent: '*'
+[2022-01-04 23:25:44.563] [exthost] [info] ExtensionService#_doActivateExtension Janne252.fontawesome-autocomplete, startup: true, activationEvent: '*'
+[2022-01-04 23:25:44.606] [exthost] [info] ExtensionService#_doActivateExtension ms-vsliveshare.vsliveshare, startup: true, activationEvent: '*', root cause: ms-vsliveshare.vsliveshare-audio
+[2022-01-04 23:25:44.826] [exthost] [info] ExtensionService#_doActivateExtension mtxr.sqltools, startup: true, activationEvent: '*', root cause: mtxr.sqltools-driver-mysql
+[2022-01-04 23:25:44.857] [exthost] [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer, startup: true, activationEvent: '*'
+[2022-01-04 23:25:45.075] [exthost] [info] ExtensionService#_doActivateExtension ms-dotnettools.csharp, startup: true, activationEvent: '*', root cause: Unity.unity-debug
+[2022-01-04 23:25:45.589] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+[2022-01-04 23:25:47.256] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2022-01-04 23:25:47.283] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-01-04 23:25:47.287] [exthost] [info] ExtensionService#_doActivateExtension ms-vsliveshare.vsliveshare-audio, startup: true, activationEvent: '*'
+[2022-01-04 23:25:47.504] [exthost] [info] ExtensionService#_doActivateExtension mtxr.sqltools-driver-mysql, startup: true, activationEvent: '*'
+[2022-01-04 23:25:47.505] [exthost] [info] ExtensionService#_doActivateExtension Unity.unity-debug, startup: true, activationEvent: '*'
+[2022-01-04 23:25:49.025] [exthost] [info] Eager extensions activated
+[2022-01-04 23:25:49.077] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-01-04 23:25:49.086] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-01-04 23:25:49.088] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode-remote.remote-containers, startup: false, activationEvent: 'onStartupFinished'
+[2022-01-04 23:25:49.123] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode-remote.remote-wsl, startup: false, activationEvent: 'onStartupFinished'
+[2022-01-04 23:25:49.129] [exthost] [info] ExtensionService#_doActivateExtension PKief.material-icon-theme, startup: false, activationEvent: 'onStartupFinished'
+[2022-01-04 23:25:50.825] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:json'
+[2022-01-04 23:25:50.927] [exthost] [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:json'
+[2022-01-04 23:25:50.989] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:json'
+[2022-01-04 23:25:51.072] [exthost] [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onLanguage:json'
+[2022-01-04 23:27:00.157] [exthost] [info] ExtensionService#_doActivateExtension cschlosser.doxdocgen, startup: false, activationEvent: 'onLanguage:cpp'
+[2022-01-04 23:27:00.262] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.cpptools, startup: false, activationEvent: 'onLanguage:cpp'
+[2022-01-04 23:27:08.244] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+[2022-01-05 01:02:47.315] [exthost] [info] extension host terminating: renderer closed the socket
+[2022-01-05 01:02:52.361] [exthost] [info] Extension host with pid 99261 exiting with code 0

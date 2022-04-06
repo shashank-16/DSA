@@ -1,0 +1,238 @@
+Validating found git in: git
+Using git 2.34.1 from git
+> git rev-parse --git-dir
+Open repository: /home/shashank/st
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git show --textconv :config.def.h
+> git ls-files --stage -- /home/shashank/st/config.def.h
+> git status -z -u
+> git cat-file -s 91ab8cab2c709e9f235c0892d4c48c83f2bdc5dc
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/shashank/st/config.def.h
+> git cat-file -s 91ab8cab2c709e9f235c0892d4c48c83f2bdc5dc
+> git show --textconv :config.def.h
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :config.def.h.orig
+> git ls-files --stage -- /home/shashank/st/config.def.h.orig
+> git show --textconv :config.def.h.rej
+> git ls-files --stage -- /home/shashank/st/config.def.h.rej
+> git show --textconv :config.def.h.orig
+> git ls-files --stage -- /home/shashank/st/config.def.h.orig
+> git show --textconv :config.def.h
+> git ls-files --stage -- /home/shashank/st/config.def.h
+> git cat-file -s 91ab8cab2c709e9f235c0892d4c48c83f2bdc5dc
+> git show --textconv :config.def.h.rej
+> git ls-files --stage -- /home/shashank/st/config.def.h.rej
+> git show --textconv :config.def.h.orig
+> git ls-files --stage -- /home/shashank/st/config.def.h.orig
+> git show --textconv :config.def.h
+> git ls-files --stage -- /home/shashank/st/config.def.h
+> git cat-file -s 91ab8cab2c709e9f235c0892d4c48c83f2bdc5dc
+> git show --textconv :config.def.h.rej
+> git ls-files --stage -- /home/shashank/st/config.def.h.rej
+> git show --textconv :config.def.h
+> git ls-files --stage -- /home/shashank/st/config.def.h
+> git cat-file -s 91ab8cab2c709e9f235c0892d4c48c83f2bdc5dc
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /home/shashank/st/config.def.h
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :st.h.orig
+> git ls-files --stage -- /home/shashank/st/st.h.orig
+> git show --textconv :st.h.rej
+> git ls-files --stage -- /home/shashank/st/st.h.rej
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /home/shashank/st/st.h
+> git show --textconv :st.h
+> git ls-files --stage -- /home/shashank/st/st.h
+> git cat-file -s 519b9bd8e33a009affbe2dc71c45918e9a0bb929
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/shashank/st/st.h.rej
+> git ls-files --stage -- /home/shashank/st/st.h
+> git cat-file -s 519b9bd8e33a009affbe2dc71c45918e9a0bb929
+> git show --textconv :st.h.rej
+> git show --textconv :st.h
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :st.c
+> git ls-files --stage -- /home/shashank/st/st.c
+> git cat-file -s 51049ba22b86cb7f13d99b1c880504c0362ba320
+> git show --textconv :st.h
+> git ls-files --stage -- /home/shashank/st/st.h
+> git cat-file -s 519b9bd8e33a009affbe2dc71c45918e9a0bb929
+> git show --textconv :st.c
+> git ls-files --stage -- /home/shashank/st/st.c
+> git cat-file -s 51049ba22b86cb7f13d99b1c880504c0362ba320
+> git show --textconv :x.c.rej
+> git ls-files --stage -- /home/shashank/st/x.c.rej
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /home/shashank/st/x.c
+> git show --textconv :x.c
+> git ls-files --stage -- /home/shashank/st/x.c
+> git cat-file -s 8a16faaad0f09a0ceae0faa436fc08593e8df2a4
+> git fetch
+> git ls-files --stage -- /home/shashank/st/x.c.rej
+> git ls-files --stage -- /home/shashank/st/x.c
+> git cat-file -s 8a16faaad0f09a0ceae0faa436fc08593e8df2a4
+> git show --textconv :x.c.rej
+> git show --textconv :x.c
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/shashank/st/x.c.rej
+> git ls-files --stage -- /home/shashank/st/x.c
+> git cat-file -s 8a16faaad0f09a0ceae0faa436fc08593e8df2a4
+> git show --textconv :x.c.rej
+> git show --textconv :x.c
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/shashank/st/x.c.rej
+> git ls-files --stage -- /home/shashank/st/x.c
+> git cat-file -s 8a16faaad0f09a0ceae0faa436fc08593e8df2a4
+> git show --textconv :x.c.rej
+> git show --textconv :x.c
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git fetch
+> git ls-files --stage -- /home/shashank/st/x.c.rej
+> git ls-files --stage -- /home/shashank/st/x.c
+> git cat-file -s 8a16faaad0f09a0ceae0faa436fc08593e8df2a4
+> git show --textconv :x.c.rej
+> git show --textconv :x.c
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/shashank/st/x.c.rej
+> git ls-files --stage -- /home/shashank/st/x.c
+> git cat-file -s 8a16faaad0f09a0ceae0faa436fc08593e8df2a4
+> git show --textconv :x.c.rej
+> git show --textconv :x.c
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :st.h
+> git ls-files --stage -- /home/shashank/st/st.h
+> git cat-file -s 519b9bd8e33a009affbe2dc71c45918e9a0bb929
+> git show --textconv :x.c.rej
+> git ls-files --stage -- /home/shashank/st/x.c.rej
+> git fetch
+> git ls-files --stage -- /home/shashank/st/x.c.rej
+> git show --textconv :x.c.rej
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git fetch
+> git ls-files --stage -- /home/shashank/st/x.c.rej
+> git show --textconv :x.c.rej
+> git ls-files --stage -- /home/shashank/st/x.c.rej
+> git show --textconv :x.c.rej
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/shashank/st/x.c.rej
+> git show --textconv :x.c.rej

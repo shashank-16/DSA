@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///home/shashank/Pictures/b6eda319-b46e-4e9e-966a-707a9b3dedcf.jpg" added="2021-12-31T20:27:29.297065Z" modified="2021-12-31T20:27:29.931586Z" visited="2021-12-31T20:27:29.297068Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2021-12-31T20:27:29.931581Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/shashank/Pictures/5c23867d-f26d-4ae4-8a6c-4f14dd2fa2b2.jpg" added="2021-12-31T20:29:20.902091Z" modified="2021-12-31T20:29:21.352085Z" visited="2021-12-31T20:29:20.902094Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2021-12-31T20:29:21.352080Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/shashank/Downloads/dwm-fullgaps-6.2.diff" added="2022-01-02T08:56:10.797836Z" modified="2022-01-02T08:56:10.797847Z" visited="2022-01-02T08:56:10.797838Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-patch"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2022-01-02T08:56:10.797842Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/shashank/dwm/dwm-fullgaps-20200508-7b77734.diff" added="2022-01-02T09:19:46.492739Z" modified="2022-01-02T09:19:46.492753Z" visited="2022-01-02T09:19:46.492741Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-patch"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2022-01-02T09:19:46.492746Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/shashank/dwm/dwm-fullgaps-6.2.diff" added="2022-01-02T09:33:26.848910Z" modified="2022-01-02T09:33:26.848919Z" visited="2022-01-02T09:33:26.848911Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-patch"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2022-01-02T09:33:26.848914Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/shashank/st/st-alpha-0.8.2.diff" added="2022-01-03T17:03:35.627559Z" modified="2022-01-04T19:10:46.756128Z" visited="2022-01-03T17:03:35.627561Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-patch"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2022-01-04T19:10:46.756126Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/shashank/st/st-alpha-0.8.1.diff" added="2022-01-03T17:29:16.721929Z" modified="2022-01-03T17:29:16.721938Z" visited="2022-01-03T17:29:16.721931Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-patch"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2022-01-03T17:29:16.721934Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/shashank/dwm-bar" added="2022-01-03T18:45:50.093887Z" modified="2022-01-03T18:45:50.093892Z" visited="2022-01-03T18:45:50.093888Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2022-01-03T18:45:50.093889Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/shashank/Pictures/7daada3a-f7e9-4874-a1ab-49a5da5e301a.jpg" added="2022-01-03T19:50:08.193172Z" modified="2022-01-03T19:50:08.193179Z" visited="2022-01-03T19:50:08.193173Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="discord" exec="&apos;discord %u&apos;" modified="2022-01-03T19:50:08.193175Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/shashank/2022-01-04-141758_1920x1080_scrot.png" added="2022-01-04T08:49:45.966110Z" modified="2022-01-04T08:49:45.966120Z" visited="2022-01-04T08:49:45.966111Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="discord" exec="&apos;discord %u&apos;" modified="2022-01-04T08:49:45.966115Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/shashank/programming/CC++/oosd.cpp" added="2022-01-04T17:56:59.652726Z" modified="2022-01-04T17:56:59.652733Z" visited="2022-01-04T17:56:59.652727Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-c++src"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2022-01-04T17:56:59.652729Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>

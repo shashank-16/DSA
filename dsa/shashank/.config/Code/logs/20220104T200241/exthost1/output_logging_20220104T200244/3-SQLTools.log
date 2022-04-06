@@ -1,0 +1,75 @@
+[1641306765979] INFO  (ext): SQLTools is starting
+[1641306765981] INFO  (ext): initializing language client...
+[1641306765982] INFO  (ext): Registering client for languages [{"scheme":"sqltools"},{"language":"sql","scheme":"untitled"},{"language":"sql","scheme":"file"},{"language":"sql","scheme":"sqltools"}]
+    ns: "lc"
+[1641306765985] INFO  (ext): loading plugins...
+[1641306765985] INFO  (ext): registering Formatter Plugin.
+    plugin: {
+      "name": "Formatter Plugin"
+    }
+[1641306765986] INFO  (ext): registering Connection Manager Plugin.
+    plugin: {
+      "name": "Connection Manager Plugin"
+    }
+[1641306765986] INFO  (ext): registering CodeLens Plugin.
+    plugin: {
+      "name": "CodeLens Plugin",
+      "registeredLanguages": []
+    }
+[1641306765987] INFO  (ext): registering Dependency Manager Plugin.
+    plugin: {
+      "name": "Dependency Manager Plugin",
+      "installingDrivers": []
+    }
+[1641306765988] INFO  (ext): Connection explorer changed. Will be updated.
+    ns: "conn-man:explorer"
+[1641306765989] INFO  (ext): registering History Manager Plugin.
+    plugin: {
+      "name": "History Manager Plugin"
+    }
+[1641306765989] INFO  (ext): registering Bookmarks Manager Plugin.
+    plugin: {
+      "name": "Bookmarks Manager Plugin"
+    }
+[1641306765990] INFO  (ext): SQLTools activation completed. 10.723427 ms
+[1641306766017] INFO  (ext): Formatter Plugin registered!
+[1641306766017] INFO  (ext): CodeLens Plugin registered!
+[1641306766017] INFO  (ext): Dependency Manager Plugin registered!
+[1641306766018] INFO  (ext): Connection Manager Plugin registered!
+[1641306766018] INFO  (ext): History Manager Plugin registered!
+[1641306766018] INFO  (ext): Bookmarks Manager Plugin registered!
+[1641306766700] INFO  (ls): SQLTools Server started!
+===============================
+Using node runtime?: no
+ExecPath: /opt/visual-studio-code/code 
+===============================
+[1641306766712] INFO  (ls): Telemetry enabled!
+    ns: "telemetry"
+[1641306766778] INFO  (ext): LanguageClient ready
+    ns: "lc"
+[1641306767093] INFO  (ext): EXECUTING COMMAND => sqltools.refreshTree
+[1641306767093] INFO  (ext): Connection explorer changed. Will be updated.
+    ns: "conn-man:explorer"
+[1641306767988] INFO  (ext): Connection explorer changed. Will be updated.
+    ns: "conn-man:explorer"
+[1641306770242] INFO  (ext): registering MySQL/MariaDB Plugin (driver).
+    plugin: {
+      "extensionId": "mtxr.sqltools-driver-mysql",
+      "name": "MySQL/MariaDB Plugin",
+      "type": "driver"
+    }
+[1641306770243] INFO  (ls): REQUEST RECEIVED => ls/RegisterPlugin
+[1641306770244] INFO  (ls): request to register plugin: "/home/shashank/.vscode/extensions/mtxr.sqltools-driver-mysql-0.2.0/out/ls/plugin.js"
+[1641306770545] INFO  (ls): Driver mysql registered!
+    place: "driver-map"
+    ns: "ls-context"
+[1641306770545] INFO  (ls): Driver mariadb registered!
+    place: "driver-map"
+    ns: "ls-context"
+[1641306771892] INFO  (ext): EXECUTING COMMAND => sqltools.refreshTree
+[1641306771893] INFO  (ext): Connection explorer changed. Will be updated.
+    ns: "conn-man:explorer"
+[1641306771947] INFO  (ext): MySQL/MariaDB Plugin (driver) registered!
+[1641306772981] INFO  (ext): EXECUTING COMMAND => sqltools.refreshTree
+[1641306772981] INFO  (ext): Connection explorer changed. Will be updated.
+    ns: "conn-man:explorer"

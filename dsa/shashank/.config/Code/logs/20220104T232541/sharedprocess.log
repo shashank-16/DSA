@@ -1,0 +1,13 @@
+[2022-01-04 23:25:47.242] [sharedprocess] [info] Starting worker process with pid 99542 (type: watcherServiceParcelSharedProcess, window: 1).
+[2022-01-04 23:25:53.002] [sharedprocess] [info] Uninstalling extension: ms-dotnettools.csharp
+[2022-01-04 23:25:53.058] [sharedprocess] [error] Failed to uninstall extension: ms-dotnettools.csharp Cannot uninstall 'C#' extension. 'Debugger for Unity' extension depends on this.
+[2022-01-04 23:26:04.132] [sharedprocess] [info] Uninstalling extension: ms-dotnettools.csharp
+[2022-01-04 23:26:04.177] [sharedprocess] [error] Failed to uninstall extension: ms-dotnettools.csharp Cannot uninstall 'C#' extension. 'Debugger for Unity' extension depends on this.
+[2022-01-05 00:41:16.725] [sharedprocess] [info] Starting worker process with pid 393118 (type: watcherServiceParcelSharedProcess, window: 3).
+[2022-01-05 00:41:23.281] [sharedprocess] [info] Installing extension: ms-vsliveshare.vsliveshare
+[2022-01-05 00:41:41.361] [sharedprocess] [info] Downloaded extension: ms-vsliveshare.vsliveshare /home/shashank/.config/Code/CachedExtensionVSIXs/ms-vsliveshare.vsliveshare-1.0.5201
+[2022-01-05 00:41:44.339] [sharedprocess] [info] Extracted extension to /home/shashank/.vscode/extensions/.1fbf0ee7-9e7a-42d4-a9f9-e459b95f3ebb: ms-vsliveshare.vsliveshare
+[2022-01-05 00:41:44.402] [sharedprocess] [info] Renamed to /home/shashank/.vscode/extensions/ms-vsliveshare.vsliveshare-1.0.5201
+[2022-01-05 00:41:44.406] [sharedprocess] [info] Extracting completed. ms-vsliveshare.vsliveshare
+[2022-01-05 00:41:44.461] [sharedprocess] [info] Extension installed successfully: ms-vsliveshare.vsliveshare
+[2022-01-05 01:02:47.351] [sharedprocess] [info] Worker process with pid 99542 terminated normally (type: watcherServiceParcelSharedProcess, window: 1).

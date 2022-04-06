@@ -1,0 +1,10 @@
+[2022-01-04 23:25:44.211] [renderer1] [error] [Extension Host] (node:99261) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+(Use `code --trace-deprecation ...` to show where the warning was created)
+[2022-01-04 23:25:53.096] [renderer1] [error] Cannot uninstall 'C#' extension. 'Debugger for Unity' extension depends on this.: Internal: Cannot uninstall 'C#' extension. 'Debugger for Unity' extension depends on this.
+    at A.unininstallExtension (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/code/electron-browser/sharedProcess/sharedProcessMain.js:48:15700)
+[2022-01-04 23:26:04.239] [renderer1] [error] Cannot uninstall 'C#' extension. 'Debugger for Unity' extension depends on this.: Internal: Cannot uninstall 'C#' extension. 'Debugger for Unity' extension depends on this.
+    at A.unininstallExtension (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/code/electron-browser/sharedProcess/sharedProcessMain.js:48:15700)
+[2022-01-05 00:32:01.874] [renderer1] [error] Cannot refresh property when process is undefined: Error: Cannot refresh property when process is undefined
+    at k.refreshProperty (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1700:20770)
+    at _i.refreshProperty (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2737:6424)
+    at async _i._updateProcessCwd (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2736:974)

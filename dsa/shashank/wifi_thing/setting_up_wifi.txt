@@ -1,0 +1,8 @@
+nmcli d
+
+nmcli r wifi on
+ 
+nmcli d wifi list // these give the AVIABLE LIST 
+
+nmcli d wifi connect wifi_name password password_name_info 
+

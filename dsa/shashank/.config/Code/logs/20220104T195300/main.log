@@ -1,0 +1,7 @@
+[2022-01-04 19:53:00.715] [main] [info] update#setState idle
+[2022-01-04 19:53:00.778] [main] [info] ExtensionHostStarterWorker created
+[2022-01-04 19:53:02.412] [main] [info] Starting extension host with pid 384930 (fork() took 22 ms).
+[2022-01-04 19:53:30.718] [main] [info] update#setState checking for updates
+[2022-01-04 19:53:30.812] [main] [info] update#setState idle
+[2022-01-04 19:59:58.439] [main] [info] Waiting for extension host with pid 384930 to exit.
+[2022-01-04 20:00:03.483] [main] [info] Extension host with pid 384930 exited with code: 0, signal: null.

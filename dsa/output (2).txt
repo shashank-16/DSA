@@ -1,0 +1,17 @@
+Comparing 3 and 1
+Comparing 1 and 3
+Swapping 3 and 1
+Comparing 1 and 1
+Comparing 4 and 3
+Comparing 1 and 4
+Swapping 4 and 1
+Comparing 1 and 3
+Swapping 3 and 1
+Comparing 1 and 1
+Comparing 5 and 4
+1
+1
+1
+3
+4
+5
