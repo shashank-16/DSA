@@ -1,0 +1,149 @@
+package tree;
+
+import java.util.*;
+
+public class generic {
+	public  static class node {
+		int data;
+		ArrayList<node> children = new ArrayList<>(); // it is neccasry for using new word in every itelization of the refrecnse in program
+		
+	}
+	
+	public static int size(node temp)
+	{
+		int count =1;
+		if(temp.children.size() == 0)
+		{
+			return 1;
+		}
+		for(node t:temp.children)
+		{
+			count+=size(t);
+		}
+		return count;
+		
+	}
+	public static int max_tree(node root)
+	{
+		int max=0;
+//		System.out.println(root.data);
+		if(root.children.size()==0)
+		{
+			
+			return  root.data;
+			
+		}
+
+		
+		for(node t:root.children)
+		{
+			int maxy=max_tree(t);
+			if(maxy >= max)
+			{
+				max = maxy;
+				
+			}
+			
+		}
+		return max;
+		
+	}
+	
+	public static void display(node temp)
+	{
+		String str = temp.data + "->" ;
+		for(node t : temp.children)
+		{
+		str+= t.data+",";
+		
+		
+		}
+		str+= ".";
+		
+		System.out.println(str);
+		
+		
+		for(node te :  temp.children)
+		{
+			display(te);
+			
+		}
+	}
+	
+	public static int hieght(node head)
+	{
+		int hei= 0;
+		
+		int max = 0;
+		
+		if(head.children.size() == 0)
+		{
+			return 1;
+		}
+		
+		for(node t : head.children)
+		{
+			int temp_height = hieght(t);
+			hei+=temp_height;
+			
+			if(max <= hei)
+			{
+				max = hei;
+			}
+			
+		}
+		return max;
+		
+	}
+	
+	public static void main(String[] adas)
+	{
+		int a ;
+		node root = null;
+		Scanner cin = new Scanner(System.in);
+		a= cin.nextInt();
+		Stack<node> helper = new Stack<node>();
+		
+		int[] arr=  new int[a];
+		
+		for(int i =0;i<a;i++)
+		{
+			arr[i] = cin.nextInt();
+		}
+		
+		for(int i =0;i<arr.length;i++)
+		{
+			if(arr[i] == -1 )
+			{
+				helper.pop();
+			}else {
+				node temp = new node();
+				temp.data = arr[i];
+				
+				if(helper.size() > 0)
+				{
+//					System.out.println("came inside in stack children");
+					helper.peek().children.add(temp);
+//					System.out.println(helper.peek().data);
+				}
+				else
+				{
+//					System.out.println("came inside in root");
+					root=temp;
+				}
+				helper.add(temp);
+//				System.out.println(helper.peek().data);
+				
+				
+			}
+		}
+		
+		display(root);
+		System.out.println(max_tree(root));
+		System.out.println(size(root));
+		
+		
+	}
+}
+//12
+//10 20 -1 30 50 -1 60 -1 -1 40 -1 -1
