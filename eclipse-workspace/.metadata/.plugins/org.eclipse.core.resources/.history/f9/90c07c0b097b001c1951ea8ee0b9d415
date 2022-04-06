@@ -1,9 +1,0 @@
-package testing;
-
-public class mainclass {
-
-	public static void main(String[] args) {
-		
-	}
-
-}

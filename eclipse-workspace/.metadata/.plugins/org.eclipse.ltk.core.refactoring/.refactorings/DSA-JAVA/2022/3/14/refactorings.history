@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">
-<refactoring accessors="true" comment="Delete element from project &apos;DSA-JAVA&apos;&#x0A;- Original project: &apos;DSA-JAVA&apos;&#x0A;- Original element: &apos;pep.BST.java&apos;" description="Delete element" element1="/src&lt;pep{BST.java" elements="1" flags="589830" id="org.eclipse.jdt.ui.delete" resources="0" stamp="1648475955142" subPackages="false" version="1.0"/>
-</session>
