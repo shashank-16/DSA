@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="testing.staticity"/>
+    <fullyQualifiedTypeName name="testPk.cla"/>
+    <fullyQualifiedTypeName name="impertive.imper.person.Gender"/>
+    <fullyQualifiedTypeName name="java.util.function.Predicate"/>
+    <fullyQualifiedTypeName name="impertive.consumer"/>
+    <fullyQualifiedTypeName name="impertive.imper"/>
+    <fullyQualifiedTypeName name="impertive.imper.Gender"/>
+    <fullyQualifiedTypeName name="impertive.imper.person"/>
+    <fullyQualifiedTypeName name="java.lang.reflect.Array"/>
+    <fullyQualifiedTypeName name="java.awt.datatransfer.SystemFlavorMap"/>
+    <fullyQualifiedTypeName name="java.util.Arrays"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="pep.insertion"/>
+    <fullyQualifiedTypeName name="pep.stacking.stack"/>
+    <fullyQualifiedTypeName name="pep.queue.gg"/>
+    <fullyQualifiedTypeName name="java.lang.Integer"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="tree.binary"/>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+</qualifiedTypeNameHistroy>

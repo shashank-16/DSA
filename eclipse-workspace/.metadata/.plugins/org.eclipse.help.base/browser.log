@@ -1,0 +1,5 @@
+
+Jan 22, 2022 03:45:19.748 NEW SESSION
+Jan 22, 2022 03:45:19.748 which: no mozilla in (/home/shashank/.cargo/bin:/usr/local/sbin:/usr/local/bin:/usr/bin:/var/lib/flatpak/exports/bin:/usr/lib/jvm/default/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl)
+Jan 22, 2022 03:45:19.749 which: no netscape in (/home/shashank/.cargo/bin:/usr/local/sbin:/usr/local/bin:/usr/bin:/var/lib/flatpak/exports/bin:/usr/lib/jvm/default/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl)
+Jan 22, 2022 03:45:19.751 /usr/bin/firefox

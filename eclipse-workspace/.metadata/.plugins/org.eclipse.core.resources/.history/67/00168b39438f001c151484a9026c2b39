@@ -1,0 +1,53 @@
+package blocks;
+import java.util.*;
+public class spliter {
+	public static void main(String[] aeda)
+	{
+		int n;
+		int k ;
+		Scanner input = new Scanner(System.in);
+		n=input.nextInt();
+		k=input.nextInt();
+		int[][] arr= new int[k][n];
+		
+		for(int i=0;i<k;i++)
+		{
+			for(int j=0;j<n;j++)
+			{
+				if(i == 0 || j ==0)
+				{
+					arr[i][j]=0;
+				}
+				else if(i==j && i!=0)
+				{
+					arr[i][j]=1;
+				}
+				else {
+					int tem=Math.abs(j-i);
+					if(arr[i-1][tem]!=0)
+					{
+						arr[i][j]=1+arr[i-1][tem];
+						
+					}
+					else {
+						arr[i][j]=0;
+					}
+					
+				}
+				
+			}
+		}
+		
+		for(int i=0;i<k;i++)
+		{
+			for(int j=0;j<n;j++)
+			{
+				System.out.print(arr[i][j]+" ");
+			}
+			System.out.println();
+		}
+		
+		
+	}
+}
+

@@ -1,0 +1,84 @@
+package hash;
+import java.util.*;
+
+public class firsthash {
+	
+	public static int highestfre(String sentence)
+	{
+		int max = 0;
+		int count= sentence.length()-1;
+		char cha= 0;
+		
+		HashMap<Character,Integer> chi = new HashMap<>();
+		while(count != 0)
+		{
+			cha=sentence.charAt(count);
+			if(chi.containsKey(cha))
+			{
+				int value = chi.get(cha);
+				value+=1;
+				chi.put(cha,value);
+			}
+			else {
+				
+				chi.put(cha,1);
+			}
+			
+			count--;
+		}
+		Set<Character> keys = chi.keySet();
+		for(Character i : keys)
+		{
+			if(max< chi.get(i))
+			{
+				max=chi.get(i);
+			}
+			
+		}
+		return max;
+	}
+	
+	public static void common(int[] arr1,int[] arr2)
+	{
+		for(int i:arr1)
+		{
+			System.out.print(i+" ");
+		}
+		System.out.println();
+		
+		for(int y: arr2)
+		{
+			System.out.print(y+" ");
+		}
+	}
+	
+	public static void main(String[] dasd)
+	{
+		
+		HashMap<Character,Integer> boom = new HashMap<>();
+		Scanner input = new Scanner(System.in);
+		
+		int n1,n2;
+		n1 = input.nextInt();
+		
+		int[] arr1 = new int[n1];
+		
+		for(int i= 0;i<n1;i++)
+		{
+			arr1[i] =input.nextInt();
+		}
+		
+		n2= input.nextInt();
+		int[] arr2 = new int[n2];
+		for(int y= 0;y<n2;y++)
+		{
+			arr2[y]=input.nextInt();
+		}
+		
+		common(arr1,arr2);
+		
+//		String word = input.next();
+//		int max= highestfre(word);
+//		System.out.print(max);
+	}
+}
